@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello">哈囉世界!</string>
+    <string name="test_bigger">放大</string>
+    <string name="test_hello">好</string>
+</resources>
